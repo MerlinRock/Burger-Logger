@@ -1,0 +1,25 @@
+{
+  "name": "burger-logger",
+  "version": "1.0.0",
+  "description": "handlebars app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerlinRock/Burger-Logger.git"
+  },
+  "author": "Merlin Rock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MerlinRock/Burger-Logger/issues"
+  },
+  "homepage": "https://github.com/MerlinRock/Burger-Logger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
